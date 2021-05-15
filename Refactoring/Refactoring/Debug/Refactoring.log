@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Kalina\Desktop\Industrial-programming-practice\Refactoring\Refactoring\Source.cpp(98,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kalina\Desktop\Industrial-programming-practice\Refactoring\Refactoring\Source.cpp(134,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kalina\Desktop\Industrial-programming-practice\Refactoring\Refactoring\Source.cpp(171,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kalina\Desktop\Industrial-programming-practice\Refactoring\Refactoring\Source.cpp(492): warning C4715: Order::best: значение возвращается не при всех путях выполнения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Kalina\Desktop\Industrial-programming-practice\Refactoring\Debug\Refactoring.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
